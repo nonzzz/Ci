@@ -1,3 +1,5 @@
 const f = (a, b) => a + b
 
-module.exports = { f }
+const t = (a, b) => a - b
+
+module.exports = { f, t }
