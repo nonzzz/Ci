@@ -1,0 +1,24 @@
+{
+  "name": "ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XeryYue/Ci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XeryYue/Ci/issues"
+  },
+  "homepage": "https://github.com/XeryYue/Ci#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
